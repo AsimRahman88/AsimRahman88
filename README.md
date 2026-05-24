@@ -1,10 +1,10 @@
-# Hi, I'm Asim Rahman 
+# Hi, I'm Asim Rahman 👋
 
 Software Engineering graduate from Concordia University passionate about full stack development, scalable systems, and software architecture.
 
 ## About Me
 
--  BEng Software Engineering — Concordia University
+- 🎓 BEng Software Engineering — Concordia University
 -  Interested in backend engineering, distributed systems, and full stack development
 -  Experienced with Java, Spring Boot, React, React Native, Node.js, and PostgreSQL
 -  Previously worked as a Software Engineering Intern at Athena AI / DevFortress
@@ -24,7 +24,8 @@ Spring Boot • React • React Native • Node.js • Express • MongoDB • P
 
 ## Featured Projects
 
-###  GameOn — Sports Management Platform
+### [GameOn — Sports Management Platform](https://github.com/SoenCapstone/GameOn)
+
 Microservices-based sports management platform built using Spring Boot and React Native.
 
 Features include:
@@ -34,11 +35,10 @@ Features include:
 - Team announcement and league post systems
 - Statistics and standings tracking
 
-🔗 [GameOn](https://github.com/SoenCapstone/GameOn)
-
 ---
 
-###  Compiler Design Project
+### [Compiler Design Project](https://github.com/AsimRahman88/compiler-design-project)
+
 Built a complete compiler for an object-oriented language targeting Moon assembly.
 
 Implemented:
@@ -49,11 +49,10 @@ Implemented:
 - Symbol tables
 - Code generation
 
-🔗 [Compiler Design Project](https://github.com/AsimRahman88/compiler-design-project)
-
 ---
 
-###  Shopify Embedded App — Athena AI
+### Shopify Embedded App — Athena AI
+
 Developed Shopify integrations and storefront chatbot tooling during my internship at DevFortress.
 
 Worked with:
@@ -68,9 +67,9 @@ Worked with:
 
 ## Connect With Me
 
-- LinkedIn: https://linkedin.com/in/asim-rahman-29b925343
-- GitHub: https://github.com/AsimRahman88
+- LinkedIn: [Asim Rahman](https://linkedin.com/in/asim-rahman-29b925343)
+- GitHub: [AsimRahman88](https://github.com/AsimRahman88)
 
 ---
 
- Always interested in building impactful software and learning new technologies.
+Always interested in building impactful software and learning new technologies.
