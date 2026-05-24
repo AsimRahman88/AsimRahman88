@@ -1,6 +1,6 @@
 # Hi, I'm Asim Rahman 👋
 
-Software Engineering graduate from Concordia University passionate about full stack development, scalable systems, and software architecture.
+Software Engineering graduate from Concordia University passionate about full stack development, scalable systems and software architecture.
 
 ## About Me
 
