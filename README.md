@@ -34,7 +34,7 @@ Features include:
 - Team announcement and league post systems
 - Statistics and standings tracking
 
-🔗 <[GameOn](https://github.com/SoenCapstone/GameOn)>
+🔗 [GameOn](https://github.com/SoenCapstone/GameOn)
 
 ---
 
@@ -49,7 +49,7 @@ Implemented:
 - Symbol tables
 - Code generation
 
-🔗 <[Compiler Design Project](https://github.com/AsimRahman88/compiler-design-project)>
+🔗 [Compiler Design Project](https://github.com/AsimRahman88/compiler-design-project)
 
 ---
 
