@@ -1,13 +1,13 @@
 # Hi, I'm Asim Rahman 
 
-Software Engineering graduate from Concordia University passionate about full stack development, scalable systems and software architecture.
+Software Engineering graduate from Concordia University passionate about building scalable software, backend systems, and full-stack applications.
 
 ## About Me
 
 - 🎓 BEng Software Engineering — Concordia University
 - 📚 Starting MEng in Software Engineering (Jan. 2027)
--  Interested in backend software engineering, distributed systems, cloud applications, and full-stack development.
--  Experienced with Java, Spring Boot, React, React Native, Node.js, and PostgreSQL
+-  Interested in backend software engineering, distributed systems, and full-stack development.
+-  Experienced with Java, Spring Boot, React, React Native, Node.js, PostgreSQL, and MERN stack development.
 -  Previously worked as a Software Engineering Intern at Athena AI / DevFortress
 - 📍 Montreal, Canada
 
@@ -56,7 +56,7 @@ Key components:
 
 Developed Shopify integrations and storefront chatbot tooling during my internship at DevFortress.
 
-Worked with:
+Technologies:
 - Remix
 - Shopify Polaris
 - App Bridge
