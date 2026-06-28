@@ -5,7 +5,8 @@ Software Engineering graduate from Concordia University passionate about full st
 ## About Me
 
 - 🎓 BEng Software Engineering — Concordia University
--  Interested in backend engineering, distributed systems, and full stack development
+- 📚 Starting MEng in Software Engineering (Jan. 2027)
+-  Interested in backend software engineering, distributed systems, cloud applications, and full-stack development.
 -  Experienced with Java, Spring Boot, React, React Native, Node.js, and PostgreSQL
 -  Previously worked as a Software Engineering Intern at Athena AI / DevFortress
 - 📍 Montreal, Canada
@@ -41,7 +42,7 @@ Features include:
 
 Built a complete compiler for an object-oriented language targeting Moon assembly.
 
-Implemented:
+Key components:
 - Lexer
 - LL(1) parser
 - AST generation
@@ -72,4 +73,4 @@ Worked with:
 
 ---
 
-Always interested in building impactful software and learning new technologies.
+Always interested in building reliable software, learning new technologies, and contributing to impactful engineering projects.
